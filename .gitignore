@@ -1,0 +1,17 @@
+
+# Private database configuration
+/database/config.php
+
+# Private email configuration
+/mail/smtp_config.php
+
+# Dependencies
+/vendor/
+
+# Student resume files
+/uploads/resumes/*
+!/uploads/resumes/.gitkeep
+
+# Environment and log files
+.env
+*.log
