@@ -10,6 +10,38 @@ The system provides separate dashboards for students and administrators. Student
 
 Administrators can manage student details, companies, job opportunities, applications, interview rounds, and candidate evaluations. The system also provides AI-assisted candidate scoring and placement prediction to support the recruitment process.
 
+## Project Screenshots
+
+### 1. Home Page
+![Home Page](screenshots/01-home-page.png)
+
+### 2. Student Dashboard
+![Student Dashboard](screenshots/02-student-dashboard.png)
+
+### 3. Student Profile
+![Student Profile](screenshots/03-student-profile.png)
+
+### 4. Available Companies
+![Available Companies](screenshots/04-available-companies.png)
+
+### 5. My Applications
+![My Applications](screenshots/05-my-applications.png)
+
+### 6. Admin Dashboard
+![Admin Dashboard](screenshots/06-admin-dashboard.png)
+
+### 7. Manage Students
+![Manage Students](screenshots/07-manage-students.png)
+
+### 8. Interview Rounds
+![Interview Rounds](screenshots/08-interview-rounds.png)
+
+### 9. AI Candidate Ranking
+![AI Candidate Ranking](screenshots/09-ai-candidate-ranking.png)
+
+### 10. Placement Results
+![Placement Results](screenshots/10-placement-results.png)
+
 ## Key Features
 
 ### Student Module
@@ -40,12 +72,12 @@ Administrators can manage student details, companies, job opportunities, applica
 - Candidate ranking
 - Placement prediction
 
-**Candidate scoring criteria:**
+**Candidate Scoring Criteria:**
 - Skills: 60%
 - CGPA: 25%
 - Resume: 15%
 
-**Prediction categories:**
+**Prediction Categories:**
 - Strong: 80 and above
 - Moderate: 60–79
 - Low: Below 60
@@ -80,7 +112,7 @@ The project includes an SQL file containing the database structure.
 9. Configure your Gmail address and Gmail App Password in `mail/smtp_config.php`.
 10. Open the project in your browser.
 
-Example URL:
+**Example URL:**
 
 `http://localhost/AI-Based-Placement-and-Recruitment-Management-System/`
 
@@ -94,6 +126,7 @@ Example URL:
 - `database/` – Database configuration examples and SQL file
 - `mail/` – Email functionality and PHPMailer
 - `uploads/` – Company logo uploads
+- `screenshots/` – Project application screenshots
 
 ## Project Purpose
 
